@@ -1,7 +1,5 @@
 # PrinceOfPersia Token Contract
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 PrinceOfPersia is an ERC-20 token written in Solidity, representing the Prince's journey with sands and a sword. The contract includes features such as collecting sand, fighting demons, and buying swords.
